@@ -1,0 +1,34 @@
+c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.Form1.resources
+c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.Properties.Resources.resources
+c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.csproj.GenerateResource.Cache
+c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\bin\Debug\Yilan.exe
+c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\bin\Debug\Yilan.pdb
+c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.exe
+c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.pdb
+C:\Users\taa\Documents\Visual Studio 2010\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed Salih KOÇ\Desktop\Yilan\Yilan\bin\Debug\Yilan.exe
+C:\Users\Muhammed Salih KOÇ\Desktop\Yilan\Yilan\bin\Debug\Yilan.pdb
+C:\Users\Muhammed Salih KOÇ\Desktop\Yilan\Yilan\obj\x86\Debug\Yilan.csprojAssemblyReference.cache
+C:\Users\Muhammed Salih KOÇ\Desktop\Yilan\Yilan\obj\x86\Debug\Yilan.Form1.resources
+C:\Users\Muhammed Salih KOÇ\Desktop\Yilan\Yilan\obj\x86\Debug\Yilan.Properties.Resources.resources
+C:\Users\Muhammed Salih KOÇ\Desktop\Yilan\Yilan\obj\x86\Debug\Yilan.csproj.GenerateResource.cache
+C:\Users\Muhammed Salih KOÇ\Desktop\Yilan\Yilan\obj\x86\Debug\Yilan.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Salih KOÇ\Desktop\Yilan\Yilan\obj\x86\Debug\Yilan.exe
+C:\Users\Muhammed Salih KOÇ\Desktop\Yilan\Yilan\obj\x86\Debug\Yilan.pdb
+C:\Users\Muhammed Salih KOÇ\Documents\Visual Studio 2017\Projects\Yilan\Yilan\bin\Debug\Yilan.exe
+C:\Users\Muhammed Salih KOÇ\Documents\Visual Studio 2017\Projects\Yilan\Yilan\bin\Debug\Yilan.pdb
+C:\Users\Muhammed Salih KOÇ\Documents\Visual Studio 2017\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.csprojAssemblyReference.cache
+C:\Users\Muhammed Salih KOÇ\Documents\Visual Studio 2017\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.Form1.resources
+C:\Users\Muhammed Salih KOÇ\Documents\Visual Studio 2017\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.Properties.Resources.resources
+C:\Users\Muhammed Salih KOÇ\Documents\Visual Studio 2017\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.csproj.GenerateResource.cache
+C:\Users\Muhammed Salih KOÇ\Documents\Visual Studio 2017\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Salih KOÇ\Documents\Visual Studio 2017\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.exe
+C:\Users\Muhammed Salih KOÇ\Documents\Visual Studio 2017\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.pdb
+E:\c# game\Yilan\Yilan\obj\x86\Debug\Yilan.exe
+E:\c# game\Yilan\Yilan\obj\x86\Debug\Yilan.pdb
+E:\c# game\Yilan\Yilan\bin\Debug\Yilan.exe
+E:\c# game\Yilan\Yilan\bin\Debug\Yilan.pdb
+E:\c# game\Yilan\Yilan\obj\x86\Debug\Yilan.csprojResolveAssemblyReference.cache
+E:\c# game\Yilan\Yilan\obj\x86\Debug\Yilan.Form1.resources
+E:\c# game\Yilan\Yilan\obj\x86\Debug\Yilan.Properties.Resources.resources
+E:\c# game\Yilan\Yilan\obj\x86\Debug\Yilan.csproj.GenerateResource.Cache
